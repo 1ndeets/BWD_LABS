@@ -1,12 +1,20 @@
 {
-    "name": "untitled",
-    "version": "1.0.0",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "description": ""
-  }
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Зимичев Егор Анатольевич ПрИ-23",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ndeets/BWD_LABS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ndeets/BWD_LABS/issues"
+  },
+  "homepage": "https://github.com/1ndeets/BWD_LABS#readme"
+}
